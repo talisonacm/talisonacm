@@ -18,11 +18,10 @@ Seja bem vindo ao github do Talison ACM.
 
 <div style="display: inline_block">
 <h2> Programas/linguagens utilizados com frequência:</h2>
-
-* <img alt="latex" src="https://img.shields.io/badge/Made%20with-LaTeX-1f425f.svg" width="100" height="20">
+ 
+* <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" width="100" height="20"> 
+* <img align="center" alt="tensorflow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" width="100" height="20">
 * <img align="center" alt="overleaf" src="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white" width="100" height="20">
-* <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" width="100" height="20">
-* <img align="center" alt="html" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" width="100" height="20">
+* <img alt="latex" src="https://img.shields.io/badge/Made%20with-LaTeX-1f425f.svg" width="100" height="20">
 * <img align="center" alt="latex" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" width="100" height="20">
-* <img align="center" alt="latex" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" width="100" height="20">
 </div>
